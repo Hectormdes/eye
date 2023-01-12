@@ -1,1 +1,7 @@
-this is a practice about code
+# this is a practice about code 
+import pandas as pd 
+D = [1,2,3,4]
+F = [3,4,5,7]
+Discionary = {"first":D,"second":F}
+df = pd.DataFrame(Dictionary)
+print(df)
